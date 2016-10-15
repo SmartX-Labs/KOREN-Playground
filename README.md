@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/infra.PNG)
 
 
- OF@KOREN Playground  ㅏ쇼 ㅇㄴㅁㅇㄴㅁㅊㄴㅁ
+ OF@KOREN Playground
  
  차세대 인터넷에 기반한 인프라 혁신을 위하여 오픈소스 소프트웨어를 중심으로 IoT-SDN-Cloud를 통합한 소프트웨어-정의(Software-Defined) 인프라 및 플랫폼을 구축하고 이의 안정된 운용을 위한 혁신적인 통합 생태계를 형성해야 한다. 또한 구축된 개방되고 통합적인 생태계를 통하여 소프트웨어 중심 R&D를 기반으로 구축되는 오픈 이노베이션 플랫폼에 기여하도록 준비해야 한다.
 
