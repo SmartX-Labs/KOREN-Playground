@@ -4,7 +4,7 @@
 [OpenStack Dashboard][openstacklink]
 [openstacklink]: http://210.114.90.12/horizon/auth/login/?next=/horizon/ "OpenStack Dashboard"
 
-[![]https://github.com/SmartX-Labs/KOREN-Playground/blob/master/images/Playground.png)][tuto]
+[![]https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/Playground.png)][tuto]
 [tuto]: https://github.com/SmartX-Labs/KOREN-Playground/wiki "Tuturial Page"
 
 # KOREN-Playground
