@@ -14,8 +14,8 @@ SmartX Virtual Playground(SmartX 가상놀이터)는 하나의 공통 인프라�
 
 OF@KOREN Playground에 대한 보다 더 자세한 설명은 아래 링크를 통해 확인하세요.
 
-###[OF@KOREN Playground Tutorial][tuto]
+####[OF@KOREN Playground Tutorial][tuto]
 [tuto]: https://github.com/SmartX-Labs/KOREN-Playground/wiki "Tuturial Page"
 
-[About Us: ONK][onklink]
+####[About Us: ONK][onklink]
 [onklink]: http://opennetworking.kr/projects/opennetworking/wiki "ONK"
