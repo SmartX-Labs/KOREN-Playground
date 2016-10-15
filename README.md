@@ -1,9 +1,6 @@
 [About Us: ONK][onklink]
 [onklink]: http://opennetworking.kr/projects/opennetworking/wiki "ONK"
 
-[OpenStack Dashboard][openstacklink]
-[openstacklink]: http://210.114.90.12/horizon/auth/login/?next=/horizon/ "OpenStack Dashboard"
-
 [OF@KOREN Playground Tutorial][tuto]
 [tuto]: https://github.com/SmartX-Labs/KOREN-Playground/wiki "Tuturial Page"
 
