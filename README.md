@@ -7,12 +7,17 @@
 [OF@KOREN Playground Tutorial][tuto]
 [tuto]: https://github.com/SmartX-Labs/KOREN-Playground/wiki "Tuturial Page"
 
+
+# KOREN-Playground
+
+Playground란 사용자들이 하고 싶은 Play를 자유롭게 할 수 있게 제공되는 공간을 상징하고 사용자들이 Playground 위에서 하는 다양한 실증 실험들은 Play로 표현할 수 있다.
+
+o SmartX Playground는 사용자들이 원하는 실증 실험을 할 수 있도록 SmartX Box들을 유연하게 엮어 컴퓨팅, 네트워킹, 스토리지로 대표되는 IT 자원들을 알맞게 제공할 수 있는 물리적인 인프라를 의미한다. SmartX Virtual Playgroud(SmartX 가상놀이터)는 하나의 공통 인프라인 SmartX Playground 상에 DevOps 기반 자동화된 설치/설정 소프트웨어 도구를 활용하여 각 사용자의 요구사항에 따라 동적이고 유연하게 제공되는 실증 실험 환경을 의미한다.
+
 # KOREN-Playground
 
 ![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/infra.PNG)
 
-
- OF@KOREN Playground
  
  차세대 인터넷에 기반한 인프라 혁신을 위하여 오픈소스 소프트웨어를 중심으로 IoT-SDN-Cloud를 통합한 소프트웨어-정의(Software-Defined) 인프라 및 플랫폼을 구축하고 이의 안정된 운용을 위한 혁신적인 통합 생태계를 형성해야 한다. 또한 구축된 개방되고 통합적인 생태계를 통하여 소프트웨어 중심 R&D를 기반으로 구축되는 오픈 이노베이션 플랫폼에 기여하도록 준비해야 한다.
 
