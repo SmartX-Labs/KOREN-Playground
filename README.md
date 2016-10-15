@@ -16,7 +16,7 @@ o SmartX Playground는 사용자들이 원하는 실증 실험을 할 수 있도
 
 ###아래의 그림을 클릭해 OF@KOREN Playground로 이동하세요.
 
-[![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/playground.png)
+[![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/entrance.png)
 ][dashboard]
 [dashboard]: http://210.114.90.12/horizon/auth/login/?next=/horizon/ "OpenStack Dashboard"
 
