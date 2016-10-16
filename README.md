@@ -1,3 +1,7 @@
+[![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/temp_ONK.png)
+][onklink]
+[onklink]: http://opennetworking.kr/projects/opennetworking/wiki "ONK"
+
 
 # KOREN-Playground
 
@@ -20,6 +24,3 @@ OF@KOREN Playground에 대한 보다 더 자세한 설명은 아래 링크를 �
 
 ####[OF@KOREN Playground wiki][tuto]
 [tuto]: https://github.com/SmartX-Labs/KOREN-Playground/wiki "Tuturial Page"
-
-####[About Us: ONK][onklink]
-[onklink]: http://opennetworking.kr/projects/opennetworking/wiki "ONK"
