@@ -19,7 +19,7 @@ Open API들은 요청(Request)에 대한 응답으로 대부분 JSON 방식의 �
 
 ### REST APIs for OF@KOREN Playground Visibility
 
-MongoDB Collection List Data [GET]: 103.22.221.55:8181/mongodb_collection_list
+*MongoDB Collection List Data [GET]: 103.22.221.55:8181/mongodb_collection_list
 
 Multiview User List Data [GET]: 103.22.221.55:8181/configuration_multiview_users
 
