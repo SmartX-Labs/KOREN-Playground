@@ -9,7 +9,7 @@ Open API를 제공합니다.
 
 OpenStack 기반의 OF@KOREN Playground 환경의 상태를 실시간으로 감시할 수 있습니다.
 
-Open API들은 요청(Request)에 대한 응답으로 대부분 JSON 방식의 데이터를 응답(Response)합니다.
+Open API들은 요청(Request)에 대한 응답으로 JSON 방식의 데이터를 응답(Response)합니다.
 
 해당 API들은 Python 언어와 Django 프레임워크, pymongo 라이브러리 및 MongoDB를 활용하여 제작했습니다.
 
