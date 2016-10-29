@@ -1,5 +1,7 @@
 ##Open API for OF@KOREN Playground Users!
 
+![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/OpenAPI.png)
+
 본 페이지에서는 OF@KOREN Playground 사용자들의 편의성을 위한 모니터링 지원 기능에 대한
 Open API를 제공합니다.
 
@@ -7,8 +9,10 @@ Open API를 제공합니다.
 
 OpenStack 기반의 OF@KOREN Playground 환경의 상태를 실시간으로 감시할 수 있습니다.
 
-
 Open API들은 요청(Request)에 대한 응답으로 대부분 JSON 방식의 데이터를 응답(Response)합니다.
+
+
+
 
 MongoDB Collection List Data [GET]: 103.22.221.55:8181/mongodb_collection_list
 
