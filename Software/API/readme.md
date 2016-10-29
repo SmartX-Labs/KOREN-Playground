@@ -15,7 +15,7 @@ Open API들은 요청(Request)에 대한 응답으로 대부분 JSON 방식의 �
 
 ***
 
-> REST APIs for OF@KOREN Playground Visibility
+### REST APIs for OF@KOREN Playground Visibility
 
 MongoDB Collection List Data [GET]: 103.22.221.55:8181/mongodb_collection_list
 
@@ -42,3 +42,6 @@ Flow Status Data [GET]: 103.22.221.55:8181/flow_stats_sdn_controller_rt
 
 ***
 
+질문이나 피드백은 언제나 환영합니다. 아래의 메일 주소나 issues 페이지를 통해 소중한 의견 부탁드립니다.
+
+문의: ops@smartx.kr, [Playground issues](https://github.com/SmartX-Labs/KOREN-Playground/issues)
